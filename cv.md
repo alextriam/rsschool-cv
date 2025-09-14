@@ -2,7 +2,7 @@
 
 📍 Berlin, Germany  
 📧 john.doe.pro.super.mega@email.com  
-☎️ +49 123 456 7890  
+☎️ +49 123 456 7890825  
 💼 GitHub: [github.com/johndoe](https://github.com/johndoe) | LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
 
 ---
